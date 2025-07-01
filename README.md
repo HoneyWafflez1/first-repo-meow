@@ -1,2 +1,4 @@
 # first-repo-meow
-A test repository to get things started
+##The Meow Repository
+
+A test repository to get things started. Why not with a little kitty?
